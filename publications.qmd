@@ -1,0 +1,126 @@
+---
+title: "Publications"
+page-layout: article
+---
+
+## Publications {.section-title}
+::: section-line
+:::
+
+### 2026
+
+::: pub-item
+::: pub-title
+Genome-Wide Interaction Analysis of long-term trihalomethane exposure in drinking water and colorectal cancer risk in a Spanish Multicenter Case-Control Study (MCC-Spain) [published]{.pub-badge .published}
+:::
+::: pub-authors
+Moratalla-Navarro F, Obón-Santacana M, Rius-Sansalvador B, Morón FD, Guinó E, **Moragas N**, et al.
+:::
+::: pub-journal
+Environment International · 11 January 2026 · [DOI: 10.1016/j.envint.2026.110059](https://doi.org/10.1016/j.envint.2026.110059)
+:::
+:::
+
+::: pub-item
+::: pub-title
+GCATmb: Gut Microbiome Profiles in the Catalan Population, Implications for Health, Disease, and Lifestyle Factors [submitted]{.pub-badge .submitted}
+:::
+::: pub-authors
+**Moragas N**, Guinó E, Bars-Cortina D, Rius-Sansalvador B, Medici C, de Cid R, Obón-Santacana M, Moreno V.
+:::
+::: pub-journal
+Microbiome · submitted
+:::
+:::
+
+::: pub-item
+::: pub-title
+Consistent Metabolomic and Genetic Evidence Validates Acisoga as a Key Contributor to Colorectal Neoplasia Progression [submitted]{.pub-badge .submitted}
+:::
+::: pub-authors
+Rius-Sansalvador B, Chatziioannou AC, Keski-Rahkonen P, Robinot N, Moratalla-Navarro F, **Moragas N**, Guinó E, et al.
+:::
+::: pub-journal
+Cancer & Metabolism · submitted
+:::
+:::
+
+### 2024
+
+::: pub-item
+::: pub-title
+Multi-Cancer PRS Constellation Model for Cancer Risk Prediction [preprint]{.pub-badge .preprint}
+:::
+::: pub-authors
+**Moragas N**, Díez-Villanueva A, Moratalla-Navarro F, Fernández-Navarro P, Pérez-Gómez B, et al.
+:::
+::: pub-journal
+MedRxiv · 2024 · [DOI: 10.1101/2024.10.17.24315686](https://doi.org/10.1101/2024.10.17.24315686)
+:::
+:::
+
+::: pub-item
+::: pub-title
+The SEMA3F-NRP1/NRP2 axis is a key factor in the acquisition of invasive traits in in situ breast ductal carcinoma [published]{.pub-badge .published}
+:::
+::: pub-authors
+**Moragas N**, Fernández-Nogueira P, Recalde-Percaz L, Inman J, López-Plana A, et al.
+:::
+::: pub-journal
+Breast Cancer Research · Accepted July 2024 · [DOI: 10.1186/s13058-024-01871-0](https://doi.org/10.1186/s13058-024-01871-0)
+:::
+:::
+
+### 2020
+
+::: pub-item
+::: pub-title
+The novel pro-autophagy anticancer drug ABTL0812 potentiates chemotherapy in adenocarcinoma and squamous Non-Small Cell Lung Cancer [published]{.pub-badge .published}
+:::
+::: pub-authors
+López-Plana A, Fernández-Nogueira P, Muñoz-Guardiola P, Solé-Sánchez S, Megías-Roda E, **Moragas N**, et al.
+:::
+::: pub-journal
+International Journal of Cancer · 2020 · [DOI: 10.1002/ijc.32865](https://doi.org/10.1002/ijc.32865)
+:::
+:::
+
+### 2019
+
+::: pub-item
+::: pub-title
+Tumor-Associated Fibroblasts Promote HER2-Targeted Therapy Resistance through FGFR2 Activation [published]{.pub-badge .published}
+:::
+::: pub-authors
+Fernández-Nogueira P, Mancino M, Fuster G, López-Plana A, Jauregui P, **Moragas N**, et al.
+:::
+::: pub-journal
+Clinical Cancer Research · 2019 · [DOI: 10.1158/1078-0432.CCR-19-0353](https://doi.org/10.1158/1078-0432.CCR-19-0353)
+:::
+:::
+
+### 2018
+
+::: pub-item
+::: pub-title
+Glucocorticoids promote transition of ductal carcinoma in situ to invasive ductal carcinoma by inducing myoepithelial cell apoptosis [published]{.pub-badge .published}
+:::
+::: pub-authors
+Zubeldia-Plazaola A, Recalde-Percaz L\*, **Moragas N**\*, Alcaraz M, et al. (\*equal contribution)
+:::
+::: pub-journal
+Breast Cancer Research · 2018 · [DOI: 10.1186/s13058-018-0977-z](https://doi.org/10.1186/s13058-018-0977-z)
+:::
+:::
+
+::: pub-item
+::: pub-title
+Histamine receptor 1 inhibition enhances antitumor therapeutic responses through ERK activation in breast cancer [published]{.pub-badge .published}
+:::
+::: pub-authors
+Fernández-Nogueira P, Noguera-Castells A, Fuster G, Recalde-Percaz L, **Moragas N**, et al.
+:::
+::: pub-journal
+Cancer Letters · 2018 · [DOI: 10.1016/j.canlet.2018.03.014](https://doi.org/10.1016/j.canlet.2018.03.014)
+:::
+:::

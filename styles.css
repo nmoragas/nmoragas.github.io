@@ -1,0 +1,28 @@
+/* Extra polish on top of SCSS */
+
+/* Page container width */
+.page-layout-article .page-columns {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+.page-layout-full .page-columns {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Remove default title rendering (we do it manually in hero) */
+.page-layout-full h1.title { display: none; }
+
+/* Table styling for CV contact */
+table { width: auto !important; border: none !important; }
+table td { border: none !important; padding: 0.4rem 1rem 0.4rem 0 !important; font-size: 0.93rem; }
+
+/* Footer */
+.nav-footer { border-top: 1px solid #e0ddd8; font-size: 0.82rem; color: #999; padding: 1.2rem 0; }
+
+/* Headings rhythm */
+h2 { margin-top: 2.5rem; }
+h3 { font-size: 1.1rem; color: #444; margin-top: 2rem; margin-bottom: 0.5rem; border-bottom: 1px solid #e0ddd8; padding-bottom: 0.3rem; }
+

@@ -1,0 +1,112 @@
+/*-- scss:defaults --*/
+
+// Paleta verda + crema + taronja — estil Hugo Apéro
+$primary:    #2c5f3f;   // verd fosc intens (títols, navbar)
+$secondary:  #5a9470;   // verd mig (vores cards)
+$accent:     #d46c2a;   // taronja càlid (detalls, icones, badges)
+$body-bg:    #faf7f0;   // crema càlid (fons)
+$body-color: #1c2e22;   // quasi negre verdós (text)
+$link-color: $primary;
+
+$font-family-sans-serif: 'Jost', sans-serif;
+$headings-font-family:   'Fraunces', serif;
+$font-size-base:         1rem;
+$line-height-base:       1.8;
+
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+$navbar-hl: $accent;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;1,9..144,300;1,9..144,400&family=Jost:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body { background-color: $body-bg; color: $body-color; font-family: $font-family-sans-serif; font-weight: 300; }
+
+a { color: $primary; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: $accent; }
+
+/* Navbar */
+.navbar { background-color: $body-bg !important; border-bottom: 2px solid $primary; padding: 1.2rem 2rem; }
+.navbar-brand { font-family: $headings-font-family; font-size: 1.35rem; font-weight: 400; color: $primary !important; font-style: italic; letter-spacing: -0.3px; }
+.nav-link { font-weight: 500; font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: #4a6655 !important; transition: color 0.2s; }
+.nav-link:hover { color: $accent !important; }
+.navbar-nav .nav-link.active { color: $accent !important; }
+
+/* Icones navbar (GitHub, LinkedIn) */
+.navbar .bi { color: $accent !important; font-size: 1.1rem; }
+.navbar .bi:hover { color: $primary !important; }
+
+/* Hero */
+.hero { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 5rem; align-items: center; padding: 5rem 0 4.5rem; border-bottom: 1px solid #ddd8cc; }
+.hero-text h1 { font-family: $headings-font-family; font-size: 3.4rem; font-weight: 400; line-height: 1.08; color: $primary; margin-bottom: 0.4rem; font-style: italic; }
+.hero-text .subtitle { font-size: 0.88rem; font-weight: 500; letter-spacing: 0.13em; text-transform: uppercase; color: $accent; margin-bottom: 1.6rem; }
+.hero-text .bio { font-size: 1rem; line-height: 1.85; color: #3a4e40; font-weight: 300; margin-bottom: 2rem; max-width: 480px; }
+.hero-photo { text-align: center; }
+.hero-photo img { width: 270px; height: 270px; border-radius: 50%; object-fit: cover; border: 3px solid $primary; box-shadow: 6px 6px 0px rgba(212,108,42,0.25); }
+
+/* Buttons */
+.btn-primary-custom { display: inline-block; background: $primary; color: #faf7f0 !important; padding: 0.7rem 1.7rem; border-radius: 2px; font-weight: 500; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none !important; margin-right: 0.8rem; transition: background 0.2s; }
+.btn-primary-custom:hover { background: #1a3d28; }
+.btn-outline-custom { display: inline-block; border: 1.5px solid $accent; color: $accent !important; padding: 0.68rem 1.6rem; border-radius: 2px; font-weight: 500; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none !important; transition: all 0.2s; }
+.btn-outline-custom:hover { background: $accent; color: #faf7f0 !important; }
+
+/* Section titles */
+.section-title { font-family: $headings-font-family; font-size: 2rem; font-weight: 400; font-style: italic; color: $primary; margin-bottom: 0.3rem; margin-top: 3rem; }
+.section-line { width: 40px; height: 2px; background: $accent; margin-bottom: 2rem; }
+
+/* Skills grid */
+.skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 1.2rem; margin: 1.5rem 0; }
+.skill-card { background: #f0f5ee; border: 1px solid #c8d8c2; border-top: 2.5px solid $accent; padding: 1.2rem 1.3rem; border-radius: 2px; }
+.skill-card h4 { font-family: $font-family-sans-serif; font-size: 0.73rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.12em; color: $accent; margin-bottom: 0.5rem; }
+.skill-card p { font-size: 0.87rem; color: #3a5542; line-height: 1.65; margin: 0; font-weight: 300; }
+
+/* Experience cards */
+.exp-card { border-left: 2.5px solid $secondary; padding: 1.3rem 1.6rem; margin-bottom: 1.4rem; background: #f0f5ee; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+.exp-header { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.3rem; }
+.exp-title { font-family: $headings-font-family; font-weight: 400; font-size: 1.05rem; color: $primary; }
+.exp-org { font-size: 0.88rem; color: #5a7060; margin: 0.15rem 0; font-weight: 300; }
+.exp-date { font-size: 0.78rem; color: $accent; font-family: 'JetBrains Mono', monospace; white-space: nowrap; }
+.exp-card ul { margin-top: 0.8rem; padding-left: 1.1rem; }
+.exp-card ul li { font-size: 0.91rem; line-height: 1.75; color: #2e4a38; font-weight: 300; margin-bottom: 0.2rem; }
+
+/* Publications */
+.pub-item { padding: 1.3rem 0; border-bottom: 1px solid #ddd8cc; }
+.pub-item:last-child { border-bottom: none; }
+.pub-title { font-family: $headings-font-family; font-weight: 400; font-size: 1rem; color: $body-color; margin-bottom: 0.3rem; line-height: 1.5; }
+.pub-authors { font-size: 0.84rem; color: #607868; margin-bottom: 0.2rem; font-weight: 300; }
+.pub-journal { font-size: 0.84rem; color: $primary; font-style: italic; }
+.pub-badge { display: inline-block; font-size: 0.7rem; padding: 0.12rem 0.5rem; border-radius: 20px; font-weight: 500; letter-spacing: 0.05em; margin-left: 0.4rem; vertical-align: middle; }
+.pub-badge.published { background: #dff0e4; color: #1e6b3a; }
+.pub-badge.submitted { background: #fdeede; color: $accent; }
+.pub-badge.preprint  { background: #e8f0e4; color: $primary; }
+
+/* CV download bar */
+.cv-download-bar { background: linear-gradient(135deg, $primary, #1a3d28); color: #faf7f0; padding: 1.1rem 1.6rem; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; border-left: 4px solid $accent; }
+.cv-download-bar p { margin: 0; font-size: 0.9rem; font-weight: 300; }
+.cv-download-bar a { color: $accent !important; font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Tags */
+.tag { display: inline-block; background: #e4ede0; color: $primary; font-size: 0.76rem; padding: 0.18rem 0.55rem; border-radius: 20px; margin: 0.15rem 0.1rem; font-family: 'JetBrains Mono', monospace; }
+
+/* Headings */
+h1, h2, h3, h4 { font-family: $headings-font-family; font-weight: 400; }
+h2 { font-size: 1.7rem; color: $primary; margin-top: 2.5rem; }
+h3 { font-size: 1.1rem; font-style: italic; color: $primary; margin-top: 2rem; border-bottom: 1px solid #ddd8cc; padding-bottom: 0.4rem; }
+
+/* Footer */
+.nav-footer { border-top: 2px solid $primary; font-size: 0.8rem; color: #7a9882; padding: 1.2rem 0; background: $body-bg; }
+
+/* Table */
+table { width: auto !important; border: none !important; }
+table td { border: none !important; padding: 0.4rem 1.2rem 0.4rem 0 !important; font-size: 0.92rem; font-weight: 300; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero { grid-template-columns: 1fr; gap: 2rem; padding: 3rem 0 2rem; }
+  .hero-photo { order: -1; }
+  .hero-photo img { width: 180px; height: 180px; }
+  .hero-text h1 { font-size: 2.4rem; }
+  .skills-grid { grid-template-columns: 1fr 1fr; }
+}

@@ -1,0 +1,166 @@
+---
+title: "Curriculum Vitae"
+page-layout: article
+---
+
+::: cv-download-bar
+**Núria Moragas Garcia** · PhD · Bioinformatics Scientist
+[Download PDF](assets/Moragas_Nuria_CV.pdf)
+:::
+
+---
+
+## Experience {.section-title}
+::: section-line
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[Bioinformatics Data Scientist]{.exp-title}  
+[IDIBELL — Oncology Data Analytics Program (ODAP) · L'Hospitalet de Llobregat, Spain]{.exp-org}
+:::
+[Jul 2022 – Present]{.exp-date}
+:::
+- Developed automated, reproducible R/Python bioinformatics pipelines for large-scale NGS data (WGS, RNA-seq, WGBS, microbiome), including preprocessing, QC, analysis, and multi-omics integration
+- Analysed genomic, transcriptomic, epigenomic, and metagenomic datasets to identify genotype–phenotype associations, regulatory patterns, and cancer-related biomarkers
+- Applied statistical modelling and machine learning (Random Forest, LASSO, PCA, SVM, Bayesian models) to prioritise candidate biomarkers from high-dimensional multi-omics datasets
+- Performed genotype imputation, GWAS, and large-scale genomic analyses using 1000 Genomes and TOPMed reference panels with strict QC and population genetics validation
+- Collaborated with clinicians, experimental researchers, and data scientists to interpret results and support scientific publications
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[Bioinformatics & Biomedical Researcher]{.exp-title}  
+[IDIBAPS — Molecular and Translational Oncology Group · Barcelona, Spain]{.exp-org}
+:::
+[Apr 2017 – Feb 2022]{.exp-date}
+:::
+- Investigated transcriptional mechanisms in the progression from in situ to invasive breast cancer through combined experimental and computational analyses
+- Developed reproducible RNA-seq analysis pipelines in R from raw FASTQ data: QC, alignment, quantification, normalisation, differential expression, and functional enrichment
+- Generated high-quality molecular datasets through cell culture, RNA/DNA extraction, RT-qPCR, and immunofluorescence
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[Visiting Researcher]{.exp-title}  
+[Lawrence Berkeley National Laboratory — Laboratory of Mina Bissell · Berkeley, CA, USA]{.exp-org}
+:::
+[Apr 2019 – Sep 2019]{.exp-date}
+:::
+- Gained hands-on experience in 3D cell culture and genetic editing techniques within an international, multidisciplinary team
+- Studied tissue architecture and microenvironmental influences on cellular behaviour
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[Quality Control Supervisor]{.exp-title}  
+[Grifols — Quality Control Department · Parets del Vallès, Spain]{.exp-org}
+:::
+[Apr 2015 – Apr 2017]{.exp-date}
+:::
+- Led a team of 9 and supported implementation of a new animal facility, ensuring ISO compliance
+- Coordinated equipment validation and accreditation documentation
+:::
+
+---
+
+## Education {.section-title}
+::: section-line
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[PhD in Biomedicine]{.exp-title}  
+[Universitat de Barcelona (UB)]{.exp-org}
+:::
+[2017 – 2021]{.exp-date}
+:::
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[MSc in Bioinformatics and Biostatistics]{.exp-title}  
+[UOC & Universitat de Barcelona (UB)]{.exp-org}
+:::
+[2015 – 2023]{.exp-date}
+:::
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[MSc in Translational Medicine]{.exp-title}  
+[Universitat Autònoma de Barcelona (UAB)]{.exp-org}
+:::
+[2014 – 2015]{.exp-date}
+:::
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[BSc in Biology]{.exp-title}  
+[Universitat de Barcelona (UB)]{.exp-org}
+:::
+[2008 – 2013]{.exp-date}
+:::
+:::
+
+---
+
+## Technical Skills {.section-title}
+::: section-line
+:::
+
+::: skills-grid
+::: skill-card
+#### Programming
+R · Python · Bash · Linux · Git · Jupyter · VS Code · RStudio
+:::
+::: skill-card
+#### NGS Tools
+PLINK · SAMtools · bcftools · GATK · Bowtie2 · Bismark · Kraken · FastQC · MultiQC · Trim Galore
+:::
+::: skill-card
+#### Pipelines
+Nextflow · Docker · Singularity (Apptainer) · Workflow automation
+:::
+::: skill-card
+#### HPC & Cloud
+HPC clusters · SLURM job scheduling
+:::
+::: skill-card
+#### Data Types
+WGS · RNA-seq · WGBS · SNPs · Microbiome · GWAS · PRS
+:::
+::: skill-card
+#### Machine Learning
+Random Forest · SVM · LASSO · PCA · Bayesian models · Predictive modelling
+:::
+::: skill-card
+#### Visualisation
+ggplot2 · Cytoscape · GraphPad Prism · Jupyter · Markdown · Quarto
+:::
+::: skill-card
+#### Languages
+Catalan (Native) · Spanish (Native) · English (C1 Advanced)
+:::
+:::
+
+---
+
+## Contact {.section-title}
+::: section-line
+:::
+
+| | |
+|---|---|
+| ✉ Email | [nmoragas@live.com](mailto:nmoragas@live.com) |
+| 🔗 LinkedIn | [linkedin.com/in/nmoragas](https://www.linkedin.com/in/nmoragas/) |
+| 💻 GitHub | [github.com/nmoragas](https://github.com/nmoragas) |

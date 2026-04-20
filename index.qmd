@@ -1,0 +1,137 @@
+---
+title: ""
+page-layout: full
+---
+
+::: hero
+::: hero-text
+# Núria Moragas Garcia
+::: subtitle
+Bioinformatics Scientist · NGS · Epigenomics · Multi-omics Data Science
+:::
+
+::: bio
+PhD-trained bioinformatician with extensive experience in NGS data analysis, epigenomics, and multi-omics integration for translational biomedical research. I develop reproducible and automated pipelines in R and Python to process large-scale genomic and epigenetic datasets, with a focus on biomarker discovery and machine learning for cancer research.
+
+Currently at **IDIBELL** (Oncology Data Analytics Program), Barcelona.
+:::
+
+<a href="publications.qmd" class="btn-primary-custom">Publications</a>
+<a href="cv.qmd" class="btn-outline-custom">Download CV</a>
+:::
+
+::: hero-photo
+![](assets/photo.jpg){alt="Núria Moragas"}
+:::
+:::
+
+<br>
+
+## Areas of Expertise {.section-title}
+::: section-line
+:::
+
+::: skills-grid
+::: skill-card
+#### NGS & Omics
+WGS, RNA-seq, WGBS, microbiome (shotgun), SNPs, GWAS, PRS, multi-omics integration
+:::
+::: skill-card
+#### Pipelines & HPC
+Nextflow, Docker, Singularity, SLURM, workflow automation, reproducible research
+:::
+::: skill-card
+#### Machine Learning
+Random Forest, SVM, LASSO, PCA, Bayesian models, predictive modelling, biomarker discovery
+:::
+::: skill-card
+#### Programming
+R, Python, Bash, Linux, Git, Jupyter, RStudio, VS Code
+:::
+::: skill-card
+#### NGS Tools
+GATK, Bowtie2, Bismark, SAMtools, bcftools, PLINK, Kraken, FastQC, MultiQC
+:::
+::: skill-card
+#### Visualisation
+ggplot2, Cytoscape, GraphPad Prism, Jupyter, Markdown, Quarto
+:::
+:::
+
+<br>
+
+## Recent Experience {.section-title}
+::: section-line
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[IDIBELL · Bioinformatics Data Scientist]{.exp-title}  
+[Oncology Data Analytics Program (ODAP) · L'Hospitalet de Llobregat]{.exp-org}
+:::
+[Jul 2022 – Present]{.exp-date}
+:::
+- Develop automated, reproducible R/Python pipelines for large-scale NGS data (WGS, RNA-seq, WGBS, microbiome)
+- Apply machine learning (Random Forest, LASSO, PCA, SVM, Bayesian) to prioritize cancer biomarkers
+- Perform GWAS and genomic analyses using 1000 Genomes and TOPMed reference panels
+:::
+
+::: exp-card
+::: exp-header
+::: {}
+[IDIBAPS · Bioinformatics & Biomedical Researcher]{.exp-title}  
+[Molecular and Translational Oncology Group · Barcelona]{.exp-org}
+:::
+[Apr 2017 – Feb 2022]{.exp-date}
+:::
+- Investigated transcriptional mechanisms in breast cancer progression (in situ → invasive)
+- Developed RNA-seq pipelines from raw FASTQ: QC, alignment, differential expression, enrichment
+- Integrated transcriptomic data with experimental results to identify regulatory biomarkers
+:::
+
+[→ Full experience and CV](cv.qmd){.btn-outline-custom style="font-size:0.8rem;"}
+
+<br>
+
+## Selected Publications {.section-title}
+::: section-line
+:::
+
+::: pub-item
+::: pub-title
+Multi-Cancer PRS Constellation Model for Cancer Risk Prediction [preprint]{.pub-badge .preprint}
+:::
+::: pub-authors
+**Moragas N**, Díez-Villanueva A, Moratalla-Navarro F, et al.
+:::
+::: pub-journal
+MedRxiv · 2024 · DOI: 10.1101/2024.10.17.24315686
+:::
+:::
+
+::: pub-item
+::: pub-title
+Genome-Wide Interaction Analysis of trihalomethane exposure and colorectal cancer risk [published]{.pub-badge .published}
+:::
+::: pub-authors
+Moratalla-Navarro F, Obón-Santacana M, Rius-Sansalvador B, **Moragas N**, et al.
+:::
+::: pub-journal
+Environment International · January 2026 · DOI: 10.1016/j.envint.2026.110059
+:::
+:::
+
+::: pub-item
+::: pub-title
+The SEMA3F-NRP1/NRP2 axis in invasive breast ductal carcinoma [published]{.pub-badge .published}
+:::
+::: pub-authors
+**Moragas N**, Fernández-Nogueira P, Recalde-Percaz L, et al.
+:::
+::: pub-journal
+Breast Cancer Research · 2024 · DOI: 10.1186/s13058-024-01871-0
+:::
+:::
+
+[→ All publications](publications.qmd){.btn-outline-custom style="font-size:0.8rem;"}

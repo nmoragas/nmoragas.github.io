@@ -1,0 +1,92 @@
+---
+title: "Research"
+page-layout: article
+---
+
+## Research {.section-title}
+::: section-line
+:::
+
+My research focuses on developing computational tools and pipelines for multi-omics data integration in cancer biology and translational medicine. I work at the intersection of bioinformatics, machine learning, and clinical research.
+
+---
+
+### Current Research — IDIBELL, ODAP (2022–Present)
+
+::: exp-card
+::: exp-header
+::: {}
+[Multi-omics Integration & Cancer Biomarker Discovery]{.exp-title}
+[Oncology Data Analytics Program · IDIBELL]{.exp-org}
+:::
+:::
+
+Large-scale analysis of genomic, transcriptomic, epigenomic, and metagenomic datasets to identify genotype–phenotype associations and cancer-related biomarkers.
+
+**Key projects:**
+
+- **Gut microbiome profiling** in the Catalan population (GCATmb) — characterising microbiome diversity and its associations with health, disease and lifestyle
+- **Polygenic Risk Score (PRS) modelling** — multi-cancer constellation model for cancer risk prediction using GWAS and 1000 Genomes/TOPMed reference panels
+- **Colorectal cancer epigenomics** — GWAS interaction analyses of environmental exposures (trihalomethanes) and cancer risk
+- **Metabolomics integration** — combining metabolomic and genetic data to identify colorectal neoplasia biomarkers
+
+**Methods:** Nextflow pipelines · SLURM HPC · PLINK · GATK · Bismark · Random Forest · LASSO · Bayesian models · PCA · SVM
+
+[]{.tag}[WGS]{.tag}[RNA-seq]{.tag}[WGBS]{.tag}[Microbiome]{.tag}[GWAS]{.tag}[PRS]{.tag}[Machine Learning]{.tag}
+:::
+
+---
+
+### Doctoral Research — IDIBAPS (2017–2022)
+
+::: exp-card
+::: exp-header
+::: {}
+[Transcriptional Mechanisms in Breast Cancer Progression]{.exp-title}
+[Molecular and Translational Oncology Group · IDIBAPS]{.exp-org}
+:::
+:::
+
+Investigation of molecular mechanisms driving the transition from ductal carcinoma in situ (DCIS) to invasive breast cancer, combining experimental and computational approaches.
+
+**Key findings:**
+
+- Identified the **SEMA3F-NRP1/NRP2 axis** as a key factor in the acquisition of invasive traits in breast cancer (*Breast Cancer Research*, 2024)
+- Characterised the role of **glucocorticoids** in promoting DCIS-to-invasive transition via myoepithelial cell apoptosis (*Breast Cancer Research*, 2018)
+- Developed complete **RNA-seq pipelines** from raw FASTQ: QC, alignment (Bowtie2), quantification, normalisation, differential expression (DESeq2/edgeR), and functional enrichment (GSEA)
+
+**Methods:** RNA-seq · RT-qPCR · Immunofluorescence · Cell culture · RNA/DNA extraction · Bioinformatics pipeline development in R
+
+[RNA-seq]{.tag}[Breast Cancer]{.tag}[Epigenomics]{.tag}[R]{.tag}[Bioinformatics]{.tag}[DCIS]{.tag}
+:::
+
+---
+
+### International Experience — Lawrence Berkeley National Laboratory (2019)
+
+::: exp-card
+::: exp-header
+::: {}
+[Visiting Researcher — Laboratory of Mina J. Bissell]{.exp-title}
+[Lawrence Berkeley National Laboratory · Berkeley, California]{.exp-org}
+:::
+:::
+
+Six-month research stay in the internationally renowned laboratory of Dr. Mina Bissell, pioneer in the study of tissue microenvironment and cancer.
+
+- Gained expertise in **3D cell culture** and genetic editing techniques
+- Studied tissue architecture and microenvironmental influences on cellular behaviour
+- Developed practical skills in advanced cell culture and targeted genetic manipulations
+
+[3D Cell Culture]{.tag}[Genetic Editing]{.tag}[Tumour Microenvironment]{.tag}[Translational Oncology]{.tag}
+:::
+
+---
+
+### Early Research Experience (2012–2014)
+
+::: exp-card
+- **Molecular cloning, viral engineering, and cell culture** — IDIBAPS, Barcelona
+- **Histology techniques and image quantification** — Universitat de Barcelona
+- **Assisted reproduction procedures and SAP records** — Hospital Vall d'Hebron, Barcelona
+:::

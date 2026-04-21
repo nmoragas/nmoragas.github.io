@@ -1,12 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets/Moragas_Nuria_CV.pdf
 
 website:
   title: "Núria Moragas"
   favicon: "assets/favicon.ico"
-  resources:
-    - assets/Moragas_Nuria_CV.pdf
   navbar:
     left:
       - href: index.qmd

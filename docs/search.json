@@ -30,35 +30,35 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Núria Moragas",
     "section": "",
-    "text": "About this site"
+    "text": "ORCID\n  \n  \n     Scholar\n  \n  \n    \n     \n  \n\n  \n  \n\nBenvinguda/Welcome!\n\nHi, I’m Núria, a bioinformatician based in Barcelona with a passion for making sense of large-scale genomic data.\nI work at IDIBELL as part of the Oncology Data Analytics Program (ODAP), where I develop reproducible computational pipelines and apply machine learning to uncover cancer biomarkers. My research spans the full multi-omics spectrum, from whole-genome sequencing and RNA-seq to DNA methylation and microbiome data.\nCurrently, I’m particularly excited about two projects: mapping the gut microbiome of the Catalan population and building polygenic risk score models for multi-cancer prediction. Learn more in publications.\nCurious about my work or just want to say hello? Send me a message!!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Núria Moragas Garcia",
+    "title": "Núria Moragas, PhD",
     "section": "",
-    "text": "Bioinformatics Scientist · NGS · Epigenomics · Multi-omics Data Science\n\n\nPhD-trained bioinformatician with extensive experience in NGS data analysis, epigenomics, and multi-omics integration for translational biomedical research. I develop reproducible and automated pipelines in R and Python to process large-scale genomic and epigenetic datasets, with a focus on biomarker discovery and machine learning for cancer research.\nCurrently at IDIBELL (Oncology Data Analytics Program), Barcelona.\n\nPublications Download CV"
+    "text": "Núria Moragas\n\nBioinformatics Scientist · NGS · Multi-omics Data Science\n\n\nPhD-trained bioinformatician with extensive experience in NGS data analysis, epigenomics, and multi-omics integration for translational biomedical research. I develop reproducible and automated pipelines in R and Python to process large-scale genomic and epigenetic datasets, with a focus on biomarker discovery and machine learning for cancer research.\nCurrently at IDIBELL (Oncology Data Analytics Program), Barcelona. Learn more about me →\n\nPublications Download CV"
   },
   {
     "objectID": "index.html#areas-of-expertise",
     "href": "index.html#areas-of-expertise",
-    "title": "Núria Moragas Garcia",
+    "title": "Núria Moragas, PhD",
     "section": "Areas of Expertise",
     "text": "Areas of Expertise\n\n\n\n\n\nNGS & Omics\nWGS, RNA-seq, WGBS, microbiome (shotgun), SNPs, GWAS, PRS, multi-omics integration\n\n\nPipelines & HPC\nNextflow, Docker, Singularity, SLURM, workflow automation, reproducible research\n\n\nMachine Learning\nRandom Forest, SVM, LASSO, PCA, Bayesian models, predictive modelling, biomarker discovery\n\n\nProgramming\nR, Python, Bash, Linux, Git, Jupyter, RStudio, VS Code\n\n\nNGS Tools\nGATK, Bowtie2, Bismark, SAMtools, bcftools, PLINK, Kraken, FastQC, MultiQC\n\n\nVisualisation\nggplot2, Cytoscape, GraphPad Prism, Jupyter, Markdown, Quarto"
   },
   {
     "objectID": "index.html#recent-experience",
     "href": "index.html#recent-experience",
-    "title": "Núria Moragas Garcia",
+    "title": "Núria Moragas, PhD",
     "section": "Recent Experience",
     "text": "Recent Experience\n\n\n\n\n\n\nIDIBELL · Bioinformatics Data Scientist\nOncology Data Analytics Program (ODAP) · L’Hospitalet de Llobregat\n\nJul 2022 – Present\n\n\nDevelop automated, reproducible R/Python pipelines for large-scale NGS data (WGS, RNA-seq, WGBS, microbiome)\nApply machine learning (Random Forest, LASSO, PCA, SVM, Bayesian) to prioritize cancer biomarkers\nPerform GWAS and genomic analyses using 1000 Genomes and TOPMed reference panels\n\n\n\n\n\nIDIBAPS · Bioinformatics & Biomedical Researcher\nMolecular and Translational Oncology Group · Barcelona\n\nApr 2017 – Feb 2022\n\n\nInvestigated transcriptional mechanisms in breast cancer progression (in situ → invasive)\nDeveloped RNA-seq pipelines from raw FASTQ: QC, alignment, differential expression, enrichment\nIntegrated transcriptomic data with experimental results to identify regulatory biomarkers\n\n\n→ Full experience and CV"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
-    "title": "Núria Moragas Garcia",
+    "title": "Núria Moragas, PhD",
     "section": "Selected Publications",
     "text": "Selected Publications\n\n\n\n\n\nMulti-Cancer PRS Constellation Model for Cancer Risk Prediction preprint\n\n\nMoragas N, Díez-Villanueva A, Moratalla-Navarro F, et al.\n\n\nMedRxiv · 2024 · DOI: 10.1101/2024.10.17.24315686\n\n\n\n\nGenome-Wide Interaction Analysis of trihalomethane exposure and colorectal cancer risk published\n\n\nMoratalla-Navarro F, Obón-Santacana M, Rius-Sansalvador B, Moragas N, et al.\n\n\nEnvironment International · January 2026 · DOI: 10.1016/j.envint.2026.110059\n\n\n\n\nThe SEMA3F-NRP1/NRP2 axis in invasive breast ductal carcinoma published\n\n\nMoragas N, Fernández-Nogueira P, Recalde-Percaz L, et al.\n\n\nBreast Cancer Research · 2024 · DOI: 10.1186/s13058-024-01871-0\n\n\n→ All publications"
   },
@@ -96,5 +96,19 @@
     "title": "Curriculum Vitae",
     "section": "Contact",
     "text": "Contact\n\n\n\n\n\n\n✉ Email\nnmoragas@live.com\n\n\n🔗 LinkedIn\nlinkedin.com/in/nmoragas\n\n\n💻 GitHub\ngithub.com/nmoragas"
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "",
+    "text": "My research focuses on developing computational tools and pipelines for multi-omics data integration in cancer biology and translational medicine. I work at the intersection of bioinformatics, machine learning, and clinical research.\n\n\n\n\n\n\nMulti-omics Integration & Cancer Biomarker Discovery Oncology Data Analytics Program · IDIBELL"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Núria Moragas",
+    "section": "About me",
+    "text": "About me\n\n\nBiologist turned bioinformatician, passionate about turning complex genomic data into meaningful biological insights.\nI build reproducible pipelines in R and Python for large-scale NGS data — from WGS and RNA-seq to DNA methylation and microbiome — and apply machine learning to discover cancer biomarkers. I work in high-performance computing environments and collaborate with multidisciplinary teams of clinicians, researchers, and data scientists.\n\n\nBioinformatics Data Scientist ∙ IDIBELL, ODAP ∙ 2022–Present\n\n\nVisiting Researcher ∙ Lawrence Berkeley National Laboratory ∙ 2019\n\n\n\n\nPrior to joining IDIBELL, I spent five years at IDIBAPS investigating transcriptional mechanisms in breast cancer progression, developing RNA-seq pipelines and integrating experimental and computational data to identify regulatory biomarkers. My background combines wet lab expertise with advanced computational skills.\n\n\nPhD in Biomedicine ∙ Universitat de Barcelona ∙ 2021\n\n\nMSc in Bioinformatics and Biostatistics ∙ UOC & UB ∙ 2023\n\n\nMSc in Translational Medicine ∙ UAB ∙ 2015\n\n\nBSc in Biology ∙ Universitat de Barcelona ∙ 2013"
   }
 ]

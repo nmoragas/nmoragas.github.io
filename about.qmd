@@ -1,5 +1,62 @@
 ---
-title: "About"
+title: "Núria Moragas"
+subtitle: Bioinformatics Scientist · NGS · Multi-omics
+image: assets/IMG_8192.JPG
+image-alt: "Portrait of Núria Moragas Garcia"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://linkedin.com/in/nmoragas
+    - icon: github
+      aria-label: "GitHub"
+      href: https://github.com/nmoragas
+    - text: "ORCID"
+      href: https://orcid.org/0009-0002-8863-3947
+    - text: "Scholar"
+      href: https://scholar.google.com/citations?user=v9DJ-7QAAAAJ&hl=en
+    - icon: envelope
+      href: mailto:nmoragas@live.com
 ---
 
-About this site
+::: {#hero-heading}
+<div class="h1">Benvinguda/Welcome!</div>
+Hi, I'm Núria, a bioinformatician based in Barcelona with a passion for making sense of large-scale genomic data.
+
+I work at IDIBELL as part of the [Oncology Data Analytics Program (ODAP)](https://www.idibell.cat), where I develop reproducible computational pipelines and apply machine learning to uncover cancer biomarkers. My research spans the full multi-omics spectrum, from whole-genome sequencing and RNA-seq to DNA methylation and microbiome data.
+
+Currently, I'm particularly excited about two projects: mapping the gut microbiome of the Catalan population and building polygenic risk score models for multi-cancer prediction. Learn more in [publications](/publications.qmd).
+
+Curious about my work or just want to say hello? [Send me a message!](mailto:nmoragas@live.com)!
+:::
+
+## About me
+
+::: {.grid}
+::: {.g-col-6 #about-me-1}
+**Biologist turned bioinformatician, passionate about turning complex genomic data into meaningful biological insights.**
+
+I build reproducible pipelines in [R](https://www.r-project.org/) and [Python](https://www.python.org/) for large-scale NGS data — from WGS and RNA-seq to DNA methylation and microbiome — and apply machine learning to discover cancer biomarkers. I work in high-performance computing environments and collaborate with multidisciplinary teams of clinicians, researchers, and data scientists.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa-solid fa-briefcase"></i></span>Bioinformatics Data Scientist ∙ IDIBELL, ODAP ∙ 2022–Present</li>
+  <li><span class="fa-li"><i class="fa-solid fa-flask"></i></span>Visiting Researcher ∙ Lawrence Berkeley National Laboratory ∙ 2019</li>
+</ul>
+:::
+
+::: {.g-col-6 #about-me-2}
+Prior to joining IDIBELL, I spent five years at IDIBAPS investigating transcriptional mechanisms in breast cancer progression, developing RNA-seq pipelines and integrating experimental and computational data to identify regulatory biomarkers. My background combines wet lab expertise with advanced computational skills.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>PhD in Biomedicine ∙ Universitat de Barcelona ∙ 2021</li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in Bioinformatics and Biostatistics ∙ UOC & UB ∙ 2023</li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in Translational Medicine ∙ UAB ∙ 2015</li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>BSc in Biology ∙ Universitat de Barcelona ∙ 2013</li>
+</ul>
+:::
+:::
+<!-- end grid -->

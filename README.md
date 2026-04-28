@@ -2,7 +2,7 @@
 
 Portfolio personal creat amb [Quarto](https://quarto.org) i publicat via GitHub Pages.
 
-## Estructura 
+## Estructura  
 
 ```
 portfolio/
